@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/nflog.dir/attr.c.o CMakeFiles/nflog.dir/callback.c.o CMakeFiles/nflog.dir/nflog.c.o CMakeFiles/nflog.dir/nlmsg.c.o CMakeFiles/nflog.dir/socket.c.o  -o nflog 
